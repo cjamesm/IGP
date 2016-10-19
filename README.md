@@ -5,9 +5,9 @@ I'd like to build a project for the generation of Islamic Geometric Patterns. I'
 # Resources
 
 Here are a few links to get me started with some reading on IGP: 
-. http://www.sigd.org/for-architects/
-. http://people.math.umass.edu/~tevelev/475_2016/Islamic%20architecture.pdf
-. http://artofislamicpattern.com/resources/educational-posters/
-. http://www.muslimheritage.com/article/new-discoveries-islamic-complex-mathematics-architecture-and-art
-. http://www.sigd.org
-. https://spiremaths.co.uk/igd/
+* http://www.sigd.org/for-architects/
+* http://people.math.umass.edu/~tevelev/475_2016/Islamic%20architecture.pdf
+* http://artofislamicpattern.com/resources/educational-posters/
+* http://www.muslimheritage.com/article/new-discoveries-islamic-complex-mathematics-architecture-and-art
+* http://www.sigd.org
+* https://spiremaths.co.uk/igd/

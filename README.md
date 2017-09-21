@@ -29,5 +29,13 @@ The five shapes of the tiles are:
 
 All sides of these figures have the same length; and all their angles are multiples of 36° (π/5 radians). All of them, except the pentagon, have bilateral (reflection) symmetry through two perpendicular lines. Some have additional symmetries. Specifically, the decagon has tenfold rotational symmetry (rotation by 36°); and the pentagon has fivefold rotational symmetry (rotation by 72°).
 
+## Hexagonal Grids
+Worth looking at how these work, found this on the programming reddit...
+
+https://www.redblobgames.com/grids/hexagons/
+
 ## Girih
 Girih are lines (strapwork) which decorate the tiles. The tiles are used to form girih patterns, from the Persian word گره, meaning "knot". In most cases, only the girih (and other minor decorations like flowers) are visible rather than the boundaries of the tiles themselves. The girih are piece-wise straight lines which cross the boundaries of the tiles at the center of an edge at 54° (3π/10) to the edge. Two intersecting girih cross each edge of a tile. Most tiles have a unique pattern of girih inside the tile which are continuous and follow the symmetry of the tile. However, the decagon has two possible girih patterns one of which has only fivefold rather than tenfold rotational symmetry.
+
+
+
